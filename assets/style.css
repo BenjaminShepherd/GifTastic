@@ -1,0 +1,26 @@
+body {
+    font: 18px ariel, sans-serif;
+    background: #eeeeee;
+}
+#buttonsArea {
+    margin-bottom: 15px;
+}
+#button, input[type="submit"] {
+    background-color: turquoise;
+    font-size: 20px;
+    line-height: 15px;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 2px 2px 3px black;
+}
+
+
+
+.searchButton{
+    background-color: turquoise;
+    font-size: 20px;
+    line-height: 15px;
+    padding: 15px;
+    margin-left: 10px;
+}
